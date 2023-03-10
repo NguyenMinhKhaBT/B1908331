@@ -1,0 +1,15 @@
+center{
+    border-radius: 20px 20px;
+    background-image: linear-gradient(to right bottom,rgba(221,238,249,0.7),rgba(188,237,249,0.3));
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 80px;
+}
+.div_1 {
+    padding: 20px;
+    background: rgb(139, 183, 224);
+    color: rgb(10, 7, 7);
+    margin: 40px 0px;
+    width: 62%;
+    border-radius: 20px;
+}
